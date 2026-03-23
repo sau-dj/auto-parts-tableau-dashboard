@@ -9,7 +9,7 @@ from the Georgian marketplace.
 - Sellers Dashboard — top sellers and seller status breakdown
 
 ## Preview
-![Overview](screenshots/OverviewDashboard.png)
+![Overview](OverviewDashboard.png)
 ![Pricing](screenshots/PricingDashboard.png)
 ![Sellers](screenshots/SellerDashboard.png)
 
