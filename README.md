@@ -10,7 +10,9 @@ from the Georgian marketplace.
 
 ## Preview
 <img src="OverviewDashboard.png" width="800"/>
+<br><br>
 <img src="PricingDashboard.png" width="800"/>
+<br><br>
 <img src="SellerDashboard.png" width="800"/>
 
 ## Data Source
