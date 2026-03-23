@@ -9,9 +9,9 @@ from the Georgian marketplace.
 - Sellers Dashboard — top sellers and seller status breakdown
 
 ## Preview
-![Overview](OverviewDashboard.png)
-![Pricing](PricingDashboard.png)
-![Sellers](SellerDashboard.png)
+<img src="OverviewDashboard.png" width="800"/>
+<img src="PricingDashboard.png" width="800"/>
+<img src="SellerDashboard.png" width="800"/>
 
 ## Data Source
 Kaggle: Auto Parts Dataset
