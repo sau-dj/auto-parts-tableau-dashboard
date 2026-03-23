@@ -8,5 +8,10 @@ from the Georgian marketplace.
 - Pricing Dashboard — average price by category
 - Sellers Dashboard — top sellers and seller status breakdown
 
+## Preview
+![Overview](screenshots/Overview_Dashboard.png)
+![Pricing](screenshots/Pricing_Dashboard.png)
+![Sellers](screenshots/Seller_Dashboard.png)
+
 ## Data Source
 Kaggle: Auto Parts Dataset
