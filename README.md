@@ -13,7 +13,7 @@ from the Georgian marketplace.
 <br><br>
 <img src="PricingDashboard.png" width="800"/>
 <br><br>
-<img src="SellerDashboard.png" width="800"/>
+<img src="SellerDashboard.png" width="800" height="600"/>
 
 ## Data Source
 Kaggle: Auto Parts Dataset
