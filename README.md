@@ -10,8 +10,8 @@ from the Georgian marketplace.
 
 ## Preview
 ![Overview](OverviewDashboard.png)
-![Pricing](screenshots/PricingDashboard.png)
-![Sellers](screenshots/SellerDashboard.png)
+![Pricing](PricingDashboard.png)
+![Sellers](SellerDashboard.png)
 
 ## Data Source
 Kaggle: Auto Parts Dataset
